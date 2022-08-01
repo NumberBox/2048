@@ -1,4 +1,9 @@
 # 2048
 Консольная игра 2048
 
-![image](https://user-images.githubusercontent.com/110388383/182131652-2ed9a3e3-de81-4081-88f0-300f597b2697.png) ![image](https://user-images.githubusercontent.com/110388383/182131924-58aedb64-c19e-4599-b33f-a3ad24cbbd8f.png)
+Особенности:
+- Выбор размеров поля,
+- Бесконечный режим (увеличение размеров поля при полном заполнении).
+
+![image](https://user-images.githubusercontent.com/110388383/182133076-5f770e56-a441-4518-8262-f7555e726d4a.png) ![image](https://user-images.githubusercontent.com/110388383/182132878-dab9d47f-f59c-4f71-b6b1-73d130e83bb0.png)
+
